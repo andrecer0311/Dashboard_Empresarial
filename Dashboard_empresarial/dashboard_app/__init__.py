@@ -1,0 +1,1 @@
+"""Dashboard empresarial de Combarranquilla en Tkinter y SQLite."""
